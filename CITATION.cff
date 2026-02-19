@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset or model, please cite as below."
+title: "CulinaryNER: Named Entity Recognition for Culinary Text"
+authors:
+  - family-names: Sawant
+    given-names: Siddhant
+    email: siddhantsavant7@gmail.com
+  - family-names: Poojari
+    given-names: Akshatha
+    email: akshatha.poojari01@morzetech.com
+version: 1.0.0
+date-released: 2026-02-19
+url: "https://github.com/siddhant-savant/CulinaryNER"
+repository-code: "https://github.com/siddhant-savant/CulinaryNER"
+keywords:
+  - named-entity-recognition
+  - natural-language-processing
+  - culinary
+  - food
+  - restaurant-reviews
+  - spacy
+  - machine-learning
+license: MIT
