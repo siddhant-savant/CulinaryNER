@@ -31,8 +31,8 @@
 
 **Contact:**
 - Email: akshatha.poojari01@gmail.com
-- LinkedIn: [linkedin.com/in/](https://linkedin.com/in/)
-- GitHub: [@siddhant-savant](https://github.com/)
+- LinkedIn: [linkedin.com/in/akshatha-poojari-32ab12198](https://linkedin.com/in/akshatha-poojari-32ab12198)
+- GitHub: [@akshatha-25](https://github.com/Akshatha-25)
 
 ---
 
